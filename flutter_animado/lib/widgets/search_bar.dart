@@ -5,7 +5,6 @@ import '../models/models.dart';
 class SearchBar extends StatelessWidget {
   const SearchBar({super.key, required this.currentUser});
 
-
   final User currentUser;
 
   @override
